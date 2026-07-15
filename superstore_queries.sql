@@ -79,3 +79,4 @@ SELECT
 FROM sales
 GROUP BY Sales_Month
 ORDER BY Sales_Month;
+
