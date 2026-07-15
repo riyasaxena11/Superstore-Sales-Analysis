@@ -80,3 +80,17 @@ This project analyses Superstore sales data to identify sales trends, profit per
 
 \- Images → Dashboard screenshots
 
+
+
+Dataset:
+
+Sample Superstore dataset (CSV file)
+
+
+
+Note:
+
+The CSV file is large, so GitHub preview may not display it directly.
+
+Download the file to view the data.
+
